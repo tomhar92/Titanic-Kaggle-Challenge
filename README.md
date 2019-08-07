@@ -34,6 +34,6 @@ Jupyter Notebook which contains my own version of logistic regression in compari
 
 Jupyter Notebook which contains several types of SVM's.
 
-### Test Pipeline
+### Test Pipeline.ipynb
 
 Given the selected algorithm, this notebook contains pipeline for submitting the predictions for test.csv dataset.
