@@ -1,6 +1,6 @@
 # Titanic Kaggle Challenge
 
-This is a dataset that was on the site kaggle.com. It was presented as a part of educational data science contest. I was given a set of parameters on the passangeres aboard the titanic, and I was supposed to predict whether they will survive the sinkage or not. In order to do so, I have used python libraries: Numpy, Pandas, Seaborn, and scikit-learn package. 
+This is a dataset that was on the site kaggle.com. It was presented as a part of educational data science contest. I was given a set of parameters on the passengers aboard the titanic, and I was supposed to predict whether they will survive the sinkage or not. In order to do so, I have used python libraries: Numpy, Pandas, Seaborn, and scikit-learn package. 
 [See the challenge](https://www.kaggle.com/c/titanic)
 
 ## Prerequisites
