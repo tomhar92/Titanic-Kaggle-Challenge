@@ -1,12 +1,12 @@
 # Titanic Kaggle Challenge
 
-This is a dataset that was on the site kaggle.com. It was presented as a part of educational data science contest. I was given a set of parameters on the passangeres aboard the titanic, and I was soppused to predict whether they will survive the sinkage or not. In order to do so, I have used python libraries: Numpy, Pandas, Seaborn, and scikit-learn package. 
+This is a dataset that was on the site kaggle.com. It was presented as a part of educational data science contest. I was given a set of parameters on the passangeres aboard the titanic, and I was supposed to predict whether they will survive the sinkage or not. In order to do so, I have used python libraries: Numpy, Pandas, Seaborn, and scikit-learn package. 
 [See the challenge](https://www.kaggle.com/c/titanic)
 
 ## Prerequisites
 
-I would beed to install [Jupyter Notebook](https://jupyter.org/) and [Python 3.6 or higher](https://www.python.org/). I have also used the following libraries:
-1. [Numpy](https://numpy.org/) - Library which makes faster mathematical calculations, espaccially when it comes to linear algebra.
+I needed to install [Jupyter Notebook](https://jupyter.org/) and [Python 3.6 or higher](https://www.python.org/). I have also used the following libraries:
+1. [Numpy](https://numpy.org/) - Library which makes faster mathematical calculations, espacially when it comes to linear algebra.
 2. [Pandas](https://pandas.pydata.org/) - Library for data manipulation and analysis.
 3. [matplotlib](https://matplotlib.org/index.html) - Used to plotting data in Python.
 4. [seaborn](https://seaborn.pydata.org/) - Used on top of matplotlib to have nicer and easier-defined plots.
